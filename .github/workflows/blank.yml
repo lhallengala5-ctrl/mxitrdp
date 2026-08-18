@@ -100,7 +100,7 @@ jobs:
 
       - name: Maintain Connection
         run: |
-          Write-Host "`n=== RDP ACCESS ==="
+          Write-Host "`n=== myvm ==="
           Write-Host "Address: $env:100.89.113.63"
           Write-Host "Username: JuicyJAd"
           Write-Host "Password: $(echo $env:Estheritunu_00@)"
